@@ -1,0 +1,10 @@
+* cl-pango
+
+CFFI Bindings for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/BradWBeer/cl-pango.git   |
+| commit  | ee4904d  |
+| systems | cl-pango |
+|---------+-------------------------------------------|
+
